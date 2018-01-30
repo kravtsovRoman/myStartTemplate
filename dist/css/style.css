@@ -8,27 +8,3 @@ body {
   background: -o-linear-gradient(45deg, #666, #666);
   background: linear-gradient(45deg, #666, #666);
 }
-
-h1 {
-  color: blue;
-}
-
-p {
-  color: green;
-  background: -webkit-linear-gradient(45deg, #ccc, #666);
-  background: -o-linear-gradient(45deg, #ccc, #666);
-  background: linear-gradient(45deg, #ccc, #666);
-}
-
-h2 {
-  height: 100px;
-}
-
-h5 {
-  width: 100px;
-}
-
-.cls {
-  background: #000;
-  color: red;
-}
