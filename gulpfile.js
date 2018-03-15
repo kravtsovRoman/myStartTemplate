@@ -13,7 +13,7 @@ var gulp = require('gulp'),
  gulp.task('connect', function() {
   connect.server({
     root: 'dist',
-    livereload: true
+    livereload: true 
   });
 });
 
